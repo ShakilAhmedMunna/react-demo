@@ -19,7 +19,7 @@ Using that for help perpose.
 ```bash
 - First clone this project.
 - Go to project directory. 
-- Install npm ( <mark>npm install</mark> run this command)
+- Install npm ( **npm install** run this command)
 - Project run ( "<mark>npm run start</mark>" run this command)
 ```
 
