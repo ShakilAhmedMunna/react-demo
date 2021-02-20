@@ -8,8 +8,12 @@
 Using that for help perpose.
 
 ## Required 
+
+```bash
 - Node js
 - Npm 
+```
+
 
 ## Setup 
 - First clone this project.
