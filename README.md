@@ -26,7 +26,6 @@ Using that for help perpose.
 
 
 ### Project video
-```bash
 - **[For video click me](https://www.loom.com/share/c8d1d384c73a4036a8da101353bfa068)**
-```
+
 
