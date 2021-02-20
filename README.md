@@ -1,6 +1,6 @@
 ## About React-Demo
 
-Using That for help perpose.
+Using that for help perpose.
 
 ## Required 
 - Node js
